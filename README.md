@@ -30,7 +30,7 @@ This dashboard provides:
 ### 🔹 **2. Product Insights**
 - Sales by Product Category  
 - Top-selling and least-performing categories  
-- Profit contribution by product  
+- Profit contribution by product category  
 - Category-level comparisons  
 
 ### 🔹 **3. Regional Analysis**
@@ -48,8 +48,6 @@ This dashboard provides:
 - Sales distribution across COD, Credit Card, UPI, EMI, etc.
 
 - Profit variation by payment mode
-
-🔹 6. Interactive Filters
 
 ### 🔹 **6. Interactive Filters**
 Filter by:
@@ -76,15 +74,16 @@ Filter by:
 ## 📁 Project Structure
 
 PowerBI-Sales-Analytics-Dashboard/
-│── E-Commerce-Order-Analysis-Dashboard.pbix
-│── README.md
 │── dataset/
 │     ├── Details.csv
 │     └── Orders.csv
 │── screenshots/
-      ├── dashboard_overview.png
-      ├── dashboard_paymentmode_filter.png
-      └── dashboard_city_filter.png
+│     ├── dashboard_overview.png
+│     ├── dashboard_paymentmode_filter.png
+│     └── dashboard_city_filter.png
+│── PowerBI-Sales-Analytics-Dashboard.pbix
+│── README.md
+
 
 ## 📸 Dashboard Screenshots
 
