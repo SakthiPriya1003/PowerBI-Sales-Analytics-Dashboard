@@ -124,7 +124,7 @@ PowerBI-Sales-Analytics-Dashboard/
 
 - Payment modes like COD and EMI contribute significantly to total revenue.
 
-- Top-performing sub-categories include Bookcases, Chairs, and Printers.
+- Top-performing sub-categories include Printers, Bookcases, and Saree.
 
 - Chennai shows strong sales performance with high profit margins.
 
