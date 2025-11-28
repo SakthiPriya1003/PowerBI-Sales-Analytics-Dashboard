@@ -71,6 +71,7 @@ Filter by:
 
 ---
 
+---
 ## 📁 Project Structure
 
 PowerBI-Sales-Analytics-Dashboard/
@@ -83,7 +84,7 @@ PowerBI-Sales-Analytics-Dashboard/
 │     └── dashboard_city_filter.png
 │── PowerBI-Sales-Analytics-Dashboard.pbix
 │── README.md
-
+---
 
 ## 📸 Dashboard Screenshots
 
