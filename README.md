@@ -73,8 +73,8 @@ Filter by:
 
 ## 📁 Project Structure
 
----
 
+```
 PowerBI-Sales-Analytics-Dashboard/
 │── dataset/
 │     ├── Details.csv
@@ -86,7 +86,7 @@ PowerBI-Sales-Analytics-Dashboard/
 │── PowerBI-Sales-Analytics-Dashboard.pbix
 │── README.md
 
----
+```
 
 ## 📸 Dashboard Screenshots
 
