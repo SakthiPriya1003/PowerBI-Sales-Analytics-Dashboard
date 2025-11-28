@@ -76,13 +76,15 @@ Filter by:
 ## 📁 Project Structure
 
 PowerBI-Sales-Analytics-Dashboard/
-│── Sales_Analytics.pbix 
-│── dataset
+│── E-Commerce-Order-Analysis-Dashboard.pbix
 │── README.md
+│── dataset/
+│     ├── Details.csv
+│     └── Orders.csv
 │── screenshots/
-├── dashboard_overview.png
-├── dashboard_paymentmode_filter.png
-├── dashboard_city_filter.png
+      ├── dashboard_overview.png
+      ├── dashboard_paymentmode_filter.png
+      └── dashboard_city_filter.png
 
 ## 📸 Dashboard Screenshots
 
